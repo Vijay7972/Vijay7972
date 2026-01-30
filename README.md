@@ -10,21 +10,21 @@ I work on real-world datasets using **Python, SQL, Excel, and Power BI** to solv
 # Socials
 <table>
     <td align="center">
-      <a href="https://instagram.com/tejaspotraje_" target="_blank">
+      <a href="https://www.instagram.com/vijay_chinchkar_45?igsh=MTloeHFsejhuaWVreA%3D%3D&utm_source=qr" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"
              alt="Instagram" width="80"/><br>
         <b>Instagram</b>
       </a>
     </td>
         <td align="center">
-      <a href="https://www.linkedin.com/in/tejas-potraje-1101mntp" target="_blank">
+      <a href="https://www.linkedin.com/in/vijay-chinchkar/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
              alt="LinkedIn" width="80"/><br>
         <b>LinkedIn</b>
       </a>
     </td>
     <td align="center">
-      <a href="mailto:tejaspotraje65@gmail.com">
+      <a href="mailto:chinchkarvijay56@gmail.com">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png?20221017173631"
              alt="Email" width="80"/><br>
         <b>Email</b>
@@ -79,7 +79,7 @@ I work on real-world datasets using **Python, SQL, Excel, and Power BI** to solv
 
 # Projects
 
-### Quality crisies the surges of Adulteration.
+### Medical Data Analysis
 <p>
   <img src="Aduteration.png" width="800"/>
 </p>
