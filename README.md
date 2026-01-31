@@ -84,19 +84,23 @@ I work on real-world datasets using **Python, SQL, Excel, and Power BI** to solv
   <img src="Aduteration.png" width="800"/>
 </p>
 
-- Analyzed sales data to identify alduration trends, top aldurated productes and its state, and penalties imposed.  
-- Built interactive dashboards to support data-driven decisions.
-- **Tools:** Python, Pandas, Power BI, Advanced Excel.
-- **Project link:**https://github.com/Tejaspotraje/Dairy-and-Pharmaceutical-Adulteration-Project.git
+- Analyzed hospital patient distribution using SQL, revealing Hamilton 1,938 patients vs Toronto 317, highlighting regional differences.  
+- Investigated seasonal admission trends, showing Summer 92, Spring 92, Fall 91, Winter 90, indicating consistent patient flow
+throughout the year
+- Calculated doctor workloads by unique patient count, with Dr. Claude 212 patients and Dr. Angelica 206, helping optimize
+resource allocation. 
+- **Tools:** SQL, Advanced Excel
+- **Project link:**https://github.com/Vijay7972/Medical-Data-Analysis
 
 ---
 
-### Indian Petroleum Stocks Analysis
+### Bank Analysis
 <p>
   <img src="Indian Petroleum Market.png" width="800"/>
 </p>
 
-- Evaluated the Indian Petroleum Stocks in Private and PSU sectors.
-- Performed data cleaning, EDA, and visual analysis.
-- **Tools:** SQL, Python, Matplotlib,Seaborn, Numpy, Pandas, Power BI.
-- **Project link:**https://github.com/Tejaspotraje/indian-petroleum-stocks-analysis-excel-python-powerbi.git
+- Built dashboards to analyze credit card spending by age group, finding the 25–34 segment contributed 60% of spend.
+- Created visuals to track income-level spending patterns, showing high-income customers drove 40% of revenue.
+- Designed interactive dashboards to study customer behavior, revealing that 70% of orders were medium-size pizzas.
+- **Tools:** Power BI, Advanced Excel.
+- **Project link:**https://github.com/Vijay7972/Mitron-Bank-Analysis
