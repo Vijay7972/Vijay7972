@@ -94,7 +94,7 @@ resource allocation.
 
 ---
 
-### Bank Analysis
+### Customer Spending Analysis Dashboard
 <p>
   <img src="Indian Petroleum Market.png" width="800"/>
 </p>
